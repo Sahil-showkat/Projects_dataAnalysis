@@ -9,4 +9,4 @@ And then *stylize* accordingly
 - etc
 
 ## Give it a shot here
-[`replit|](https://replit.com/@mohdsaahil963/UnfortunateDiscreteQuadrant#main.py)
+[`replit`](https://replit.com/@mohdsaahil963/UnfortunateDiscreteQuadrant#main.py)
